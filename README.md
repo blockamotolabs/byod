@@ -1,6 +1,6 @@
 # BYOD - Bring Your Own Data
 
-Community cache repository for [Termina][https://ordinals.com/content/7bdc2aeab14b6c56a7fc6746cbd0b8092d08eb2d0d820e43b67613cf39f36614i0] - Bitcoin Ordinals Metaverse Bitmap console.
+Community cache repository for [Termina](https://ordinals.com/content/7bdc2aeab14b6c56a7fc6746cbd0b8092d08eb2d0d820e43b67613cf39f36614i0) - Bitcoin Ordinals Metaverse Bitmap console.
 
 ## What is this?
 
@@ -116,8 +116,6 @@ The cache file structure:
 
 For questions or issues:
 - Open an issue in this repository
-- Join the Termina community discussions
-- Check the [Termina documentation](https://github.com/blockamotolabs/termina)
 
 ---
 
